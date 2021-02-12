@@ -3,6 +3,7 @@ span{
     color:black;
     text-size-adjust: 100;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
 }
 img{
     border-radius: 50%;
@@ -14,7 +15,7 @@ img{
 }
 .content-section{
     background-color: blueviolet;
-    padding: 0 60px;
+    padding: 0 10px;
     color:black;
 
 }
@@ -24,5 +25,10 @@ h1{
 }
 p{
     font-size: large;
+}
+content-wrapper{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 820px;
 }
 
