@@ -15,6 +15,9 @@ I created my first Portfolio
 -Natasha kinuthia 
 
 ---
+Links to My Git hub pages
+https://natasha1594.github.io/Portfolio/
+---
 ## license and copyright
 
 <span>&#169;</span> Natasha, My Portfolio
