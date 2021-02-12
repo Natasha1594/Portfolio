@@ -4,6 +4,8 @@
 
 My Portfolio project
 
+I created my first Portfolio
+
 ---
 
 ## license and copyright
