@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    width:100%;
+}
+
+.image-banner {
+    display: none;
+
+}
+
+.image-info {
+    width: 80%;
+}
+
+.image-info h2 {
+    width: 100%;
+    padding: 30px 30px 20px ;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 50px;
+    color: grey;
+    line-height: 44px;
+}
+
+.image-info p {
+    width: 100%;
+    padding: 0px 30px 20px ;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 16px;
+    color: grey;
+    line-height: 24px;
+}
+
+.image-me {
+    width: 0% ;
+}
+
+@media only screen and (min-width: 768px) {
+    .image-banner {
+        display: block;
+        width: 100%;
+        padding-bottom: 30px;
+    }
+    .wrapper {
+        width:600px;
+        margin: 0 auto;
+    }
+    .image-info h2 {
+        width: 100%;
+        padding: 20px 30px 0px; 
+        line-height: 44px;
+    }
+    
+    .image-info p {
+        width: 100%;
+        padding: 20px 0px 0px ;
+        
+    }
+    .image-me {
+        width: 100% ;
+        padding-top: 30px;
+    
+    }
+}
+.test-size {
+    width:100%;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 20px;
+    margin-inline-end: 20px;
+    color: grey;
+    text-align: left;
+    font-family: arial;
+    font-size: 16px;
+    
+}
+h3.wrapper{
+    width:100%;
+    margin: 10px;
+    padding:10px;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: grey;
+}
+#text {
+    font-size: 16px;
+}
+h4.wrapper {
+    width: 100%;
+    margin: 10px;
+    padding:10px;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: grey;
+
+}
+.p {
+    font-size: 20px;
+    color: black;
+}
