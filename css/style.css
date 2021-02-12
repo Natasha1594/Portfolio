@@ -60,3 +60,6 @@ h3{
     justify-content: center;
     align-items: left;
 }
+span readme.md{
+    content: "\00A9";
+}
