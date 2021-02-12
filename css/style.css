@@ -29,8 +29,8 @@
     width: 100%;
     padding: 0px 30px 20px ;
     font-family: Arial, Helvetica, sans-serif ;
-    font-size: 16px;
-    color: grey;
+    font-size: 20px;
+    color: black;
     line-height: 24px;
 }
 
@@ -43,10 +43,12 @@
         display: block;
         width: 100%;
         padding-bottom: 30px;
+        color: black;
     }
     .wrapper {
         width:600px;
         margin: 0 auto;
+        font-size: 80px;
     }
     .image-info h2 {
         width: 100%;
@@ -60,7 +62,7 @@
         
     }
     .image-me {
-        width: 100% ;
+        width: 70% ;
         padding-top: 30px;
     
     }
@@ -74,7 +76,7 @@ p {
     margin-block-end: 1em;
     margin-inline-start: 20px;
     margin-inline-end: 20px;
-    color: grey;
+    color: black;
     text-align: left;
     font-family: arial;
     font-size: 16px;
@@ -90,7 +92,7 @@ h3.wrapper{
     color: grey;
 }
 #text {
-    font-size: 16px;
+    font-size: 30px;
 }
 h4.wrapper {
     width: 100%;
@@ -103,6 +105,6 @@ h4.wrapper {
 
 }
 .p {
-    font-size: 20px;
+    font-size: 40px;
     color: black;
 }
