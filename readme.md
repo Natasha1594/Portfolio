@@ -8,6 +8,11 @@ I created my first Portfolio
 
 ---
 
+## Contributors
+
+-Natasha kinuthia <hey@natashakinuthia.ca>
+
+---
 ## license and copyright
 
 <span>&#169;</span> Natasha, My Portfolio
