@@ -20,11 +20,10 @@ img{
 
 }
 h1{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 50px;
 }
 p{
-    font-size: 16px;
+    font-size: 18px;
     line-height: 2.2;
 }
 content-wrapper{
@@ -41,6 +40,10 @@ content-wrapper{
 }
 h2{
     font-size: 50px;
+}
+h3{
+    font-size: 50px;
+
 }
 
 .potrait{
