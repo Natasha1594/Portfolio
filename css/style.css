@@ -24,7 +24,8 @@ h1{
     font-size: 50px;
 }
 p{
-    font-size: 20px;
+    font-size: 16px;
+    line-height: 2.2;
 }
 content-wrapper{
     display: grid;
@@ -40,5 +41,14 @@ content-wrapper{
 }
 h2{
     font-size: 50px;
+}
+
+.potrait{
+    height: 200px;
+    width: 200px; 
+}
+.landscape{
+    height: 200px; 
+    width: 200px;
 }
 
