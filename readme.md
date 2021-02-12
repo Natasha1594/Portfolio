@@ -15,8 +15,13 @@ I created my first Portfolio
 -Natasha kinuthia 
 
 ---
-Links to My Git hub pages
+Links to My Git hub pages:
+
 https://natasha1594.github.io/Portfolio/
+
+https://natasha1594.github.io/trial-project/
+
+https://natasha1594.github.io/hellow-world/
 ---
 ## license and copyright
 
