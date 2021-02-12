@@ -8,4 +8,4 @@ My Portfolio project
 
 ## license and copyright
 
-<span>&#169;</span>
+<span>&#169;</span> Natasha, My Portfolio
