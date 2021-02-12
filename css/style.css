@@ -1,6 +1,8 @@
 span{
     text-align: left;
-    color: crimson;
+    color:black;
+    text-size-adjust: 100;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 img{
     border-radius: 50%;
@@ -9,5 +11,10 @@ img{
     position: relative;
     top: 16px;
     right: -706px;
+}
+.content-section{
+    background-color: blueviolet;
+    padding: 0 60px;
+    color:black;
 
 }
