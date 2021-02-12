@@ -1,0 +1,13 @@
+span{
+    text-align: left;
+    color: crimson;
+}
+img{
+    border-radius: 50%;
+    max-width: 100%;
+    height: auto;
+    position: relative;
+    top: 16px;
+    right: -706px;
+
+}
