@@ -1,3 +1,5 @@
+Hello there, Im Natasha kinuthia, I'm software eneginnering 
+
 # My Portfolio project
 
 **Version 1.0.0**
@@ -10,7 +12,7 @@ I created my first Portfolio
 
 ## Contributors
 
--Natasha kinuthia <hey@natashakinuthia.ca>
+-Natasha kinuthia 
 
 ---
 ## license and copyright
