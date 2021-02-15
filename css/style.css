@@ -80,6 +80,7 @@ p {
     text-align: left;
     font-family: arial;
     font-size: 16px;
+    background-color: plum;
     
 }
 h3.wrapper{
@@ -90,6 +91,7 @@ h3.wrapper{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     color: grey;
+    
 }
 #text {
     font-size: 30px;
@@ -107,6 +109,7 @@ h4.wrapper {
 .p {
     font-size: 40px;
     color: black;
-}.body {
-    background-color: aquamarine;
+}
+body {
+    background-color: plum;
 }
