@@ -1,4 +1,4 @@
-Hello there, Im Natasha kinuthia, I'm software engineering
+Hello there, Im Natasha kinuthia, I'm a software engineering student
 
 # My Portfolio project
 
