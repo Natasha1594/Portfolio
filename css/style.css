@@ -90,7 +90,7 @@ h3.wrapper{
     display: block;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-    color: grey;
+    color: rgb(7, 6, 6);
     
 }
 #text {
@@ -103,7 +103,7 @@ h4.wrapper {
     display: block;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 40px;
-    color: grey;
+    color: black;
 
 }
 .p {
@@ -111,5 +111,37 @@ h4.wrapper {
     color: black;
 }
 body {
-    background-color: plum;
+    background-color: salmon ;
+    background-size: cover;
+    background-position: center;
 }
+.menu-bar {
+    background-color: salmon;
+    text-align: center;
+}
+h2 {
+    font-size: 45px;
+}
+.nav-bar ul {
+    display: inline-flex;
+    color: white;
+    list-style: none;
+    font-size: larger;
+}
+.nav-bar ul li {
+    width: 120px;
+    margin: 15px;
+    padding: 15px;
+    list-style: none;
+    display: inline-flex;
+}
+.nav-bar ul li a {
+    text-decoration: none;
+    color: white;
+}
+.active, nav-bar ul li:hover
+{
+    border-color: #2bab0d ;
+    border-radius: 3px;
+}
+

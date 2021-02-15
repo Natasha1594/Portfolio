@@ -1,22 +1,179 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <style>
         <meta charset="Utf-8">
         <title>My Portfolio</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" type="text/css" href="css/style.css">
+       *{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    width:100%;
+}
+
+.image-banner {
+    display: none;
+
+}
+
+.image-info {
+    width: 80%;
+}
+
+.image-info h2 {
+    width: 100%;
+    padding: 30px 30px 20px ;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 50px;
+    color: grey;
+    line-height: 44px;
+}
+
+.image-info p {
+    width: 100%;
+    padding: 0px 30px 20px ;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 20px;
+    color: black;
+    line-height: 24px;
+}
+
+.image-me {
+    width: 0% ;
+}
+
+@media only screen and (min-width: 768px) {
+    .image-banner {
+        display: block;
+        width: 100%;
+        padding-bottom: 30px;
+        color: black;
+    }
+    .wrapper {
+        width:600px;
+        margin: 0 auto;
+        font-size: 80px;
+    }
+    .image-info h2 {
+        width: 100%;
+        padding: 20px 30px 0px; 
+        line-height: 44px;
+    }
+    
+    .image-info p {
+        width: 100%;
+        padding: 20px 0px 0px ;
+        
+    }
+    .image-me {
+        width: 70% ;
+        padding-top: 30px;
+    
+    }
+}
+.test-size {
+    width:100%;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 20px;
+    margin-inline-end: 20px;
+    color: black;
+    text-align: left;
+    font-family: arial;
+    font-size: 16px;
+    background-color: plum;
+    
+}
+h3.wrapper{
+    width:100%;
+    margin: 10px;
+    padding:10px;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(7, 6, 6);
+    
+}
+#text {
+    font-size: 30px;
+}
+h4.wrapper {
+    width: 100%;
+    margin: 10px;
+    padding:10px;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: black;
+
+}
+.p {
+    font-size: 40px;
+    color: black;
+}
+body {
+    background-color: salmon ;
+    background-size: cover;
+    background-position: center;
+}
+.menu-bar {
+    background-color: salmon;
+    text-align: center;
+}
+h2 {
+    font-size: 45px;
+}
+.nav-bar ul {
+    display: inline-flex;
+    color: white;
+    list-style: none;
+    font-size: larger;
+}
+.nav-bar ul li {
+    width: 120px;
+    margin: 15px;
+    padding: 15px;
+    list-style: none;
+    display: inline-flex;
+}
+.nav-bar ul li a {
+    text-decoration: none;
+    color: white;
+}
+.active, nav-bar ul li:hover
+{
+    border-color: #2bab0d ;
+    border-radius: 3px;
+}
+
+
+       </style>
     </head>
     <body>
-        <p style= "font-size:x-large", style= "color:black", style="text-align:left">Authors name: Natasha kinuthia</p>
-        <img class="image-banner"  src="images/port.jpg" alt="software engineering banner">
-        <div class="wrapper">
-            <article class="image-info">
-                <h2>About me</h2>
-                <p>I have no background in software development and no work experience yet,I just finished year 12 and I decided why not join a software development bootcamp. I've always had interest in technology and I want to try out software development so I can have the basic of it at hand.I'm a dog lover, the love I have for them is unmatched. I also have a kin interest in music, it's calming and I can play piano.</p>
+        <p style="background-color: brown;"></p>
+        <div class="nav-bar">
 
+        <ul class="navigation">
+            <li class="active" class='navigation-Home'><a href='#'>Home</a></li>
+            <li class='navigation-About-me'><a href='#'>About-me</a></li>
+            <li class='navigation-Contact-me'><a href='#'>Contact-me</a></li>
+        </ul>
+            </div>
+                    </div>
+                    </div>
+                </div>
+        <p style= "font-size:x-large", style= "color:black", style="text-align:left">Authors name: Natasha kinuthia</p>
+                <h2><strong><u>About me</u></strong></h2>
+                <img class="image-me"  src="images/natasha.JPG" style="width: 175px;height: 175px;margin-left: 15px;"  alt="Natasha kinuthia">
+                <p>I have no background in software development and no work experience yet,I just finished year 12 and I decided why not join a software development bootcamp. I've always had interest in technology and I want to try out software development so I can have the basic of it at hand.I'm a dog lover, the love I have for them is unmatched. I also have a kin interest in music, it's calming and I can play piano.</p>
             </article>
-            <img al class="image-me"  src="images/natasha.JPG" alt="Natasha kinuthia" 
-            aligin="right">
         </div>
 
         <h3 class="wrapper"><strong><u style="font-size:xx-large;">Here are some of my projects</u></strong></h3>
