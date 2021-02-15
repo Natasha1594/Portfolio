@@ -139,9 +139,5 @@ h2 {
     text-decoration: none;
     color: white;
 }
-.active, nav-bar ul li:hover
-{
-    border-color: #2bab0d ;
-    border-radius: 3px;
-}
+
 
